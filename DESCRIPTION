@@ -3,8 +3,8 @@ Type: Package
 Title: Example functions for 'Statistical Computing' course
 Version: 1.0
 Date: 2019-12-25
-Author: Hong Zhang
-Maintainer: Hong Zhang <zhangh@ustc.edu.cn>
+Author: Hu Die 
+Maintainer: Hu Die <janehoe@mail.ustc.edu.cn>
 Description: Several R and Rcpp function are included in this package for illustration. 
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown

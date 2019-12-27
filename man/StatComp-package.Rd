@@ -8,8 +8,8 @@
   R and Rcpp versions of gibbs sampler and vaac function are provided in this package (\code{gibbsR} and \code{vaccR} versus \code{gibbsC} and \code{vaccC})
 }
 \author{
-Hong Zhang
+Hu Die 
 
-Maintainer: Hong Zhang <zhangh@ustc.edu.cn>
+Maintainer: Hu Die <janehoe@mail.ustc.edu.cn>
 }
 \keyword{ package }
